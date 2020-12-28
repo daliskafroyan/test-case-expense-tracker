@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/test-case-expense-tracker/static/css/main.4a4137e4.chunk.css",
+    "main.js": "/test-case-expense-tracker/static/js/main.89826098.chunk.js",
+    "main.js.map": "/test-case-expense-tracker/static/js/main.89826098.chunk.js.map",
+    "runtime-main.js": "/test-case-expense-tracker/static/js/runtime-main.975c6ac4.js",
+    "runtime-main.js.map": "/test-case-expense-tracker/static/js/runtime-main.975c6ac4.js.map",
+    "static/js/2.cc1020b8.chunk.js": "/test-case-expense-tracker/static/js/2.cc1020b8.chunk.js",
+    "static/js/2.cc1020b8.chunk.js.map": "/test-case-expense-tracker/static/js/2.cc1020b8.chunk.js.map",
+    "index.html": "/test-case-expense-tracker/index.html",
+    "static/css/main.4a4137e4.chunk.css.map": "/test-case-expense-tracker/static/css/main.4a4137e4.chunk.css.map",
+    "static/js/2.cc1020b8.chunk.js.LICENSE.txt": "/test-case-expense-tracker/static/js/2.cc1020b8.chunk.js.LICENSE.txt",
+    "static/media/backgroundLogin.48540c9e.png": "/test-case-expense-tracker/static/media/backgroundLogin.48540c9e.png",
+    "static/media/dashboard.60f1990e.svg": "/test-case-expense-tracker/static/media/dashboard.60f1990e.svg",
+    "static/media/finance.824af7ce.svg": "/test-case-expense-tracker/static/media/finance.824af7ce.svg",
+    "static/media/logo.6ce24c58.svg": "/test-case-expense-tracker/static/media/logo.6ce24c58.svg",
+    "static/media/paperlogowhite.063bfbc9.svg": "/test-case-expense-tracker/static/media/paperlogowhite.063bfbc9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.975c6ac4.js",
+    "static/js/2.cc1020b8.chunk.js",
+    "static/css/main.4a4137e4.chunk.css",
+    "static/js/main.89826098.chunk.js"
+  ]
+}
